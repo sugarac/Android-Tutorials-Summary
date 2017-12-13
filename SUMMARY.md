@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Android Best Practices](android-best-practices.md)
-* [Good Blogs](good-blogs.md)
+* [Good Resources](good-blogs.md)
 
