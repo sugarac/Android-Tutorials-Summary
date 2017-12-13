@@ -14,6 +14,7 @@
 
 1. [https://zhuanlan.zhihu.com/p/20708611](https://zhuanlan.zhihu.com/p/20708611) 如何自学Android？
 2. [http://androidperformance.com/2017/10/19](http://androidperformance.com/2017/10/19/Android-performance-optimization-skills-and-tools.html) Android 性能优化必知必会
+3. [性能调优・技术优化点](http://kaedea.com/2015/11/12/android-best-performance-points/)
 
 #### General Experience
 
