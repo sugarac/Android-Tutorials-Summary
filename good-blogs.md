@@ -1,4 +1,4 @@
-#### Blogs & GitHub:
+#### Blog & GitHub
 
 1. [http://www.wanandroid.com/tree](http://www.wanandroid.com/tree)
 2. [https://blog.piasy.com/](https://blog.piasy.com/) 世纪鼎点安卓工程师  [https://github.com/Piasy/](https://github.com/Piasy/) [https://notes.piasy.com/](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
@@ -10,17 +10,17 @@
 8. [http://www.jianshu.com/u/4a4eb4feee62](http://www.jianshu.com/u/4a4eb4feee62) 钛媒体安卓工程师 [https://github.com/vivian8725118](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
 9. [https://zhuanlan.zhihu.com/zmywly8866](https://zhuanlan.zhihu.com/zmywly8866) 步步高安卓工程师
 
-#### Summary:
+#### Summary
 
 1. [https://zhuanlan.zhihu.com/p/20708611](https://zhuanlan.zhihu.com/p/20708611) 如何自学Android？
 2. [http://androidperformance.com/2017/10/19](http://androidperformance.com/2017/10/19/Android-performance-optimization-skills-and-tools.html) Android 性能优化必知必会
 
-#### General Experience:
+#### General Experience
 
 1. [https://zhuanlan.zhihu.com/zmywly8866/20711335](https://zhuanlan.zhihu.com/zmywly8866/20711335) 工作以来的一些感悟
 2. [https://mp.weixin.qq.com/](https://mp.weixin.qq.com/s?__biz=MzU3ODAxNDcwNQ==&mid=2247484147&idx=1&sn=cd5f8fead3bcaac2d22a3dd699d2e79f&chksm=fd7a9e6dca0d177b27095d3d12720e83ba1638028799a89a8879929c1ad442529a62a46c5fe3&mpshare=1&scene=1&srcid=1027hi7FsUIG3AirEiJg198C#rd) 我到底有多么努力 
 
-#### Interviews:
+#### Interview
 
 1. [Android老司机面试经历](http://www.jianshu.com/p/b524e83d15fe)
 
