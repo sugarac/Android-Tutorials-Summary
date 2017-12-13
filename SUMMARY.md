@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Android Best Practices](android-best-practices.md)
 * [Good Resources](good-blogs.md)
-* [MVP](mvp.md)
+* [Popular Frameworks](mvp.md)
 * [My Notes](my-notes.md)
 
