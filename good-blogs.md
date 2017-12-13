@@ -3,6 +3,8 @@
 1. [https://blog.piasy.com/](https://blog.piasy.com/)
 2. [http://p.codekk.com/](http://p.codekk.com/)    [http://www.trinea.cn/](http://www.trinea.cn/)
 3. [http://www.wanandroid.com/tree](http://www.wanandroid.com/tree)
+4. [http://blog.csdn.net/luoshengyang/article/](http://blog.csdn.net/luoshengyang/article/)
+5. [http://blog.csdn.net/singwhatiwanna/article/](http://blog.csdn.net/singwhatiwanna/article/)
 
 #### Notes:
 
