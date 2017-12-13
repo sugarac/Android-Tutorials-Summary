@@ -22,7 +22,7 @@
 
 #### Interviews:
 
-1. [Android老司机面试经历   ](http://www.jianshu.com/p/b524e83d15fe)
+1. [Android老司机面试经历](http://www.jianshu.com/p/b524e83d15fe)
 
 #### GitHub:
 
