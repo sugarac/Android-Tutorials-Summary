@@ -5,6 +5,7 @@
 3. [http://www.wanandroid.com/tree](http://www.wanandroid.com/tree)
 4. [http://blog.csdn.net/luoshengyang/article/](http://blog.csdn.net/luoshengyang/article/)      罗升阳《Android系统源代码情景分析》作者
 5. [http://blog.csdn.net/singwhatiwanna/article/](http://blog.csdn.net/singwhatiwanna/article/)  任玉刚《Android开发艺术探索》作者
+6. [http://kaedea.com/](http://kaedea.com/) B站安卓工程师
 
 #### Notes:
 
