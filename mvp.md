@@ -2,8 +2,8 @@
 
 1. [MVP for Android: how to organize the presentation layer](https://antonioleiva.com/mvp-android/)
 2. [MVP 模式简单易懂的介绍方式](http://kaedea.com/2015/10/11/android-mvp-pattern/ )
-3. [高级MVP架构封装演变全过程](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824645&idx=1&sn=18fab4a9e35e7656114430f9ecb83ad0&chksm=80b78b5bb7c0024d350962a138e2a84d0a803923b4140ea84a0c6aa18676fb7d40e84c6430f2&scene=0#rd)
-4. [像小白一样学习MVP](http://www.jianshu.com/p/2b2f4191ac04)
+3. [像小白一样学习MVP](http://www.jianshu.com/p/2b2f4191ac04)
+4. [高级MVP架构封装演变全过程](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
 
 #### RxJava
 
