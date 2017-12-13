@@ -12,7 +12,7 @@
 
 #### Summary:
 
-1. [https://zhuanlan.zhihu.com/p/20708611](https://zhuanlan.zhihu.com/p/20708611)
+1. [https://zhuanlan.zhihu.com/p/20708611](https://zhuanlan.zhihu.com/p/20708611) 如何自学Android？
 
 #### General Experience:
 
