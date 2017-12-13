@@ -4,4 +4,5 @@
 * [Android Best Practices](android-best-practices.md)
 * [Good Resources](good-blogs.md)
 * [MVP](mvp.md)
+* [My Notes](my-notes.md)
 
