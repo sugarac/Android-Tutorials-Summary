@@ -1,7 +1,7 @@
 #### Blogs:
 
 1. [https://blog.piasy.com/](https://blog.piasy.com/)
-2. [http://p.codekk.com/](http://p.codekk.com/)    [http://www.trinea.cn/](http://www.trinea.cn/)
+2.     [http://www.trinea.cn/](http://www.trinea.cn/) [https://github.com/Trinea](https://github.com/Trinea)
 3. [http://www.wanandroid.com/tree](http://www.wanandroid.com/tree)
 4. [http://blog.csdn.net/luoshengyang/article/](http://blog.csdn.net/luoshengyang/article/)      罗升阳《Android系统源代码情景分析》作者
 5. [http://blog.csdn.net/singwhatiwanna/article/](http://blog.csdn.net/singwhatiwanna/article/)  任玉刚《Android开发艺术探索》作者
