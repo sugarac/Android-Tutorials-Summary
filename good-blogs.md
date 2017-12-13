@@ -1,4 +1,4 @@
-#### Blogs:
+#### Blogs & GitHub:
 
 1. [https://blog.piasy.com/](https://blog.piasy.com/) 世纪鼎点安卓工程师  [https://github.com/Piasy/](https://github.com/Piasy/) [https://notes.piasy.com/](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
 2. [http://www.trinea.cn/](http://www.trinea.cn/) 滴滴大佬 [http://p.codekk.com/](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#) [https://github.com/Trinea](https://github.com/Trinea)
@@ -12,8 +12,6 @@
 #### Notes:
 
 #### GitHub:
-
-
 
 
 
