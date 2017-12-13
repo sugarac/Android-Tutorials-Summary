@@ -10,10 +10,3 @@ In computing based on the Java Platform, JavaBeans are classes that encapsulate 
 
 
 
-
-
-
-
-  
-
-
