@@ -9,6 +9,14 @@
 7. [https://www.camnter.com/](https://www.camnter.com/) 网易安卓工程师 [https://github.com/CaMnter](https://github.com/CaMnter)
 8. [http://www.jianshu.com/u/4a4eb4feee62](http://www.jianshu.com/u/4a4eb4feee62) 钛媒体安卓工程师 [https://github.com/vivian8725118](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
 
+#### Summary:
+
+1. [https://zhuanlan.zhihu.com/p/20708611](https://zhuanlan.zhihu.com/p/20708611)
+
+#### General Experience:
+
+1. [https://zhuanlan.zhihu.com/zmywly8866/20711335](https://zhuanlan.zhihu.com/zmywly8866/20711335) 工作以来的一些感悟
+
 #### Notes:
 
 #### GitHub:
