@@ -5,7 +5,8 @@
 3. [http://www.wanandroid.com/tree](http://www.wanandroid.com/tree)
 4. [http://blog.csdn.net/luoshengyang/article/](http://blog.csdn.net/luoshengyang/article/)      罗升阳《Android系统源代码情景分析》作者
 5. [http://blog.csdn.net/singwhatiwanna/article/](http://blog.csdn.net/singwhatiwanna/article/)  任玉刚《Android开发艺术探索》作者
-6. [http://kaedea.com/](http://kaedea.com/) B站安卓工程师
+6. [http://kaedea.com/](http://kaedea.com/) B站安卓工程师 [https://github.com/kaedea](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
+7. [https://www.camnter.com/](https://www.camnter.com/) 网易安卓工程师 [https://github.com/CaMnter](https://github.com/CaMnter)
 
 #### Notes:
 
@@ -14,8 +15,6 @@
 #### GitHub:
 
 1. [https://github.com/vivian8725118](https://github.com/vivian8725118)
-2. [https://github.com/kaedea](https://github.com/kaedea)
-3. [https://github.com/CaMnter](https://github.com/CaMnter)
-
+2. 3. 
 
 
