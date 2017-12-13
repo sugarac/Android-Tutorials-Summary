@@ -1,6 +1,6 @@
 #### Niubility
 
-1. [https://github.com/JakeWharton](https://github.com/JakeWharton)
+1. [https://github.com/JakeWharton](https://github.com/JakeWharton) [http://jakewharton.com/](http://jakewharton.com/)
 
 #### Blog & GitHub
 
