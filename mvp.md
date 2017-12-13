@@ -1,7 +1,7 @@
 #### MVP
 
 1. [https://antonioleiva.com/mvp-android/](https://antonioleiva.com/mvp-android/) MVP for Android: how to organize the presentation layer
-2. [http://kaedea.com/2015/10/11/android-mvp-pattern/](http://kaedea.com/2015/10/11/android-mvp-pattern/) MVP 模式简单易懂的介绍方式
+2. [MVP 模式简单易懂的介绍方式](http://kaedea.com/2015/10/11/android-mvp-pattern/ )
 3. [高级MVP架构封装演变全过程](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824645&idx=1&sn=18fab4a9e35e7656114430f9ecb83ad0&chksm=80b78b5bb7c0024d350962a138e2a84d0a803923b4140ea84a0c6aa18676fb7d40e84c6430f2&scene=0#rd)
 
 #### RxJava
