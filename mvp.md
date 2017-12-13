@@ -5,13 +5,12 @@
 
 #### RxJava
 
-1. [给 Android 开发者的 RxJava 详解   ](http://gank.io/post/560e15be2dca930e00da1083#toc_14)
-
-   #### 
+1. [给 Android 开发者的 RxJava 详解  
+   ](http://gank.io/post/560e15be2dca930e00da1083#toc_14)
 
 #### Retrofit2
 
-1. [Retrofit 2.0：有史以来最大的改进   ](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
-2. 
+1. [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
+
 
 
