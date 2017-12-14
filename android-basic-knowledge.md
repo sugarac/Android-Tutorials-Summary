@@ -11,6 +11,6 @@
 7. [Butter Knife](http://jakewharton.github.io/butterknife/)
 8. xmlns: [http://blog.qiji.tech/archives/3744](http://blog.qiji.tech/archives/3744)
 9. 静态图片，矢量图 \(res/drawable/\) 布局文件 \(res/layout/\) 菜单 \(res/menu/\) 程序图标 \(res/mipmap/\) 静态字符串 \(res/values/strings.xml\)
-
+10. 
 
 
