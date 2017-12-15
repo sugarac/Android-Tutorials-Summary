@@ -8,8 +8,8 @@
    > * Choose layout manager and use RecyclerView in MainActivity 组合
 5. [CardView](https://github.com/codepath/android_guides/wiki/Using-the-CardView), [Navigation Drawer & Toolbar](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#), [Toolbar](https://github.com/codepath/android_guides/wiki/Using-the-App-Toolbar)
 6. ```css
-               android:fitsSystemWindows="true"
-               android:minHeight="?attr/actionBarSize"
+               android:fitsSystemWindows="true" //自动调整Toolbar和StatusBar位置关系
+               android:minHeight="?attr/actionBarSize" 
    ```
 7. [What is callback in Android? ](https://stackoverflow.com/questions/18054720/what-is-callback-in-android)
 8. ViewHolder类将xml每个控件的id绑定到Java对象
