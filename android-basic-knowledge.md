@@ -7,16 +7,20 @@
    > * Create adapter class
    > * Choose layout manager and use RecyclerView in MainActivity 组合
 5. [CardView](https://github.com/codepath/android_guides/wiki/Using-the-CardView), [Navigation Drawer & Toolbar](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#), [Toolbar](https://github.com/codepath/android_guides/wiki/Using-the-App-Toolbar)
-6. [What is callback in Android? ](https://stackoverflow.com/questions/18054720/what-is-callback-in-android)
-7. ViewHolder类将xml每个控件的id绑定到Java对象
-8. [https://developer.android.com/topic/libraries/support-library/features.html\#v7](https://developer.android.com/topic/libraries/support-library/features.html#v7)
-9. [Butter Knife](http://jakewharton.github.io/butterknife/)
-10. xmlns: [http://blog.qiji.tech/archives/3744](http://blog.qiji.tech/archives/3744)
-11. 静态图片，矢量图 \(res/drawable/\) 布局文件 \(res/layout/\) 菜单 \(res/menu/\) 程序图标 \(res/mipmap/\) 静态字符串 \(res/values/strings.xml\)
-12. [Supporting Multiple Screens\(支持Android各种屏幕尺寸\)](http://blog.csdn.net/wzy_1988/article/details/52932875)
-13. android:background="?attr/selectableItemBackground" 指定有界的波纹
-14. .view.MainActivity 是MainActivity类所在位置
-15. ADB: Android Debug Bridge
+6. ```css
+               android:fitsSystemWindows="true"
+               android:minHeight="?attr/actionBarSize"
+   ```
+7. [What is callback in Android? ](https://stackoverflow.com/questions/18054720/what-is-callback-in-android)
+8. ViewHolder类将xml每个控件的id绑定到Java对象
+9. [https://developer.android.com/topic/libraries/support-library/features.html\#v7](https://developer.android.com/topic/libraries/support-library/features.html#v7)
+10. [Butter Knife](http://jakewharton.github.io/butterknife/)
+11. xmlns: [http://blog.qiji.tech/archives/3744](http://blog.qiji.tech/archives/3744)
+12. 静态图片，矢量图 \(res/drawable/\) 布局文件 \(res/layout/\) 菜单 \(res/menu/\) 程序图标 \(res/mipmap/\) 静态字符串 \(res/values/strings.xml\)
+13. [Supporting Multiple Screens\(支持Android各种屏幕尺寸\)](http://blog.csdn.net/wzy_1988/article/details/52932875)
+14. android:background="?attr/selectableItemBackground" 指定有界的波纹
+15. .view.MainActivity 是MainActivity类所在位置
+16. ADB: Android Debug Bridge
 
 
 
