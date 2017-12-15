@@ -2,11 +2,11 @@
 2. A [Fragment ](https://github.com/codepath/android_guides/wiki/Creating-and-Using-Fragments)is **a piece of** an application's user interface or behavior that can be placed in an Activity. Interaction with fragments is done through FragmentManager, which can be obtained via Activity.getFragmentManager\(\) and Fragment.getFragmentManager\(\). [Why do you check for savedInstanceState == null when adding fragment? ](/adding)
 3. [RecyclerView](https://github.com/codepath/android_guides/wiki/Using-the-RecyclerView)
 4. > * Add RecyclerView dependency into gradle file \(how?\)
-   > * Replace the ListView in activity\_main.xml with RecyclerView
+   > * Replace the ListView in .xml with RecyclerView
    > * Create view holder class 可以理解为坑，即初始化（某个功能）用到的各种View（将layout文件中的View赋值，用ButterKnife）
    > * Create adapter class
    > * Choose layout manager and use RecyclerView in MainActivity 组合
-5. [CardView](https://github.com/codepath/android_guides/wiki/Using-the-CardView), [Navigation Drawer & Toolbar](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
+5. [CardView](https://github.com/codepath/android_guides/wiki/Using-the-CardView), [Navigation Drawer & Toolbar](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#), [Toolbar](https://github.com/codepath/android_guides/wiki/Using-the-App-Toolbar)
 6. [What is callback in Android? ](https://stackoverflow.com/questions/18054720/what-is-callback-in-android)
 7. ViewHolder类将xml每个控件的id绑定到Java对象
 8. [https://developer.android.com/topic/libraries/support-library/features.html\#v7](https://developer.android.com/topic/libraries/support-library/features.html#v7)
