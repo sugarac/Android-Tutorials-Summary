@@ -15,7 +15,8 @@
 11. [Navigation Drawer & Toolbar](https://github.com/codepath/android_guides/wiki/Fragment-Navigation-Drawer)
 12. [Supporting Multiple Screens\(支持Android各种屏幕尺寸\)](http://blog.csdn.net/wzy_1988/article/details/52932875)
 13. android:background="?attr/selectableItemBackground" 指定有界的波纹
-14. .view.MainActivity 什么意思？
+14. .view.MainActivity 是MainActivity类所在位置
+15. ADB: Android Debug Bridge
 
 
 
