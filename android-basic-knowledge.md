@@ -12,8 +12,10 @@
 8. xmlns: [http://blog.qiji.tech/archives/3744](http://blog.qiji.tech/archives/3744)
 9. 静态图片，矢量图 \(res/drawable/\) 布局文件 \(res/layout/\) 菜单 \(res/menu/\) 程序图标 \(res/mipmap/\) 静态字符串 \(res/values/strings.xml\)
 10. CardView: [https://github.com/codepath/android\_guides/wiki/Using-the-CardView](https://github.com/codepath/android_guides/wiki/Using-the-CardView)
-11. [Supporting Multiple Screens\(支持Android各种屏幕尺寸\)](http://blog.csdn.net/wzy_1988/article/details/52932875)
-12.  android:background="?attr/selectableItemBackground"     指定有界的波纹
+11. [Navigation Drawer](https://github.com/codepath/android_guides/wiki/Fragment-Navigation-Drawer)
+12. [Supporting Multiple Screens\(支持Android各种屏幕尺寸\)](http://blog.csdn.net/wzy_1988/article/details/52932875)
+13. android:background="?attr/selectableItemBackground" 指定有界的波纹
+14. .view.MainActivity 什么意思？
 
 
 
