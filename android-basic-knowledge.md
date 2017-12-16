@@ -9,7 +9,7 @@
 5. [CardView](https://github.com/codepath/android_guides/wiki/Using-the-CardView), [Navigation Drawer & Toolbar](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#), [Toolbar](https://github.com/codepath/android_guides/wiki/Using-the-App-Toolbar)
 6. ```css
                android:fitsSystemWindows="true" //自动调整Toolbar和StatusBar位置关系
-               android:minHeight="?attr/actionBarSize" 
+               android:minHeight="?attr/actionBarSize"
    ```
 7. [What is callback in Android? ](https://stackoverflow.com/questions/18054720/what-is-callback-in-android)
 8. ViewHolder类将xml每个控件的id绑定到Java对象
@@ -21,6 +21,13 @@
 14. android:background="?attr/selectableItemBackground" 指定有界的波纹
 15. .view.MainActivity 是MainActivity类所在位置
 16. ADB: Android Debug Bridge
+17. 在ShotListAdapter的onBindViewHolder中添加点击事件，以实现Activity切换
+    > This is how the shot data flows between activities and fragments
+    > ShotListFragment \(generates fake data\)
+    > → ShotListAdapter \(displays fake data\)
+    > → ShotActivity \(gets data from ShotListAdapter\)
+    > → ShotFragment \(gets data from ShotActivity and displays it\)
+18. Intent中的数据是Bundle
 
 
 
