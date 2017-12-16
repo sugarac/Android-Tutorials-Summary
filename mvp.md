@@ -9,11 +9,15 @@
 #### RxJava
 
 1. [给 Android 开发者的 RxJava 详解 ](http://gank.io/post/560e15be2dca930e00da1083#toc_14)
-2. [图解RxJava2\(一\)](http://rkhcy.github.io/2017/12/13/%E5%9B%BE%E8%A7%A3RxJava2%28%E4%B8%80%29/)
+2. [图解RxJava2\(一\)](http://rkhcy.github.io/2017/12/13/图解RxJava2%28一%29/)
 
 #### Retrofit2
 
 1. [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
+
+#### Dagger
+
+1. [Dagger2从入门到补胎\(一\)   ](http://rkhcy.github.io/2017/11/15/Dagger2%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%A1%A5%E8%83%8E%28%E4%B8%80%29/)
 
 #### Integration
 
