@@ -1,7 +1,7 @@
 #### Niubility
 
 1. [https://github.com/JakeWharton](https://github.com/JakeWharton) Blog: [http://jakewharton.com/](http://jakewharton.com/)
-2. [https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid) MD草鸡棒的App
+2. [https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid) MD草鸡棒的App [https://github.com/nickbutcher](https://github.com/nickbutcher) Google工程师
 
 #### Community
 
