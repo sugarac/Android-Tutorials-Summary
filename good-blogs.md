@@ -16,7 +16,7 @@
 5. [http://kaedea.com/](http://kaedea.com/) B站安卓工程师 [https://github.com/kaedea](https://github.com/kaedea)
 6. [https://www.camnter.com/](https://www.camnter.com/) 网易安卓工程师 [https://github.com/CaMnter](https://github.com/CaMnter)
 7. [http://www.jianshu.com/u/4a4eb4feee62](http://www.jianshu.com/u/4a4eb4feee62) 钛媒体安卓工程师 [https://github.com/vivian8725118](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
-8. [https://zhuanlan.zhihu.com/zmywly8866](https://zhuanlan.zhihu.com/zmywly8866) 步步高安卓工程师
+8. [https://zhuanlan.zhihu.com/zmywly8866](https://zhuanlan.zhihu.com/zmywly8866) 步步高安卓工程师张明云
 9. [http://www.liuguangli.win/](http://www.liuguangli.win/)
 10. [https://github.com/misakuo](https://github.com/misakuo) 淘宝Weex
 
