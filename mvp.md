@@ -9,6 +9,7 @@
 #### RxJava
 
 1. [给 Android 开发者的 RxJava 详解 ](http://gank.io/post/560e15be2dca930e00da1083#toc_14)
+2. [图解RxJava2\(一\)](http://rkhcy.github.io/2017/12/13/%E5%9B%BE%E8%A7%A3RxJava2%28%E4%B8%80%29/)
 
 #### Retrofit2
 
