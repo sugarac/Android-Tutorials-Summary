@@ -21,7 +21,7 @@
 
 #### Transition
 
-1. [Transition学习笔记   ](http://rkhcy.github.io/2017/09/21/TransitionNote/)
+1. [Transition学习笔记](http://rkhcy.github.io/2017/09/21/TransitionNote/)
 
 #### Integration
 
