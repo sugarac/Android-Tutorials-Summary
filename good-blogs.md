@@ -27,6 +27,7 @@
 2. [http://androidperformance.com/2017/10/19](http://androidperformance.com/2017/10/19/Android-performance-optimization-skills-and-tools.html) Android 性能优化必知必会
 3. [性能调优・技术优化点](http://kaedea.com/2015/11/12/android-best-performance-points/)
 4. [【译】构建 Android App 的30条宝贵经验](https://juejin.im/post/5a320f1ff265da431b6d3869)
+5. [收集看到的内容特别棒的技术文章并会配有一段个人短评](https://github.com/maoruibin/GreatArticles)
 
 #### General Experience
 
