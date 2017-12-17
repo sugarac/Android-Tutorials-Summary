@@ -28,7 +28,7 @@
     > → ShotActivity \(gets data from ShotListAdapter\)  
     > → ShotFragment \(gets data from ShotActivity and displays it\)
 18. Intent中的数据是Bundle
-19. [http://blog.csdn.net/github\_33304260/article/details/70213300](http://blog.csdn.net/github_33304260/article/details/70213300)
+19. [Picasso，Glide，Fresco对比分析](http://blog.csdn.net/github_33304260/article/details/70213300)
 
 
 
