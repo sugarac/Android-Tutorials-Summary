@@ -22,12 +22,13 @@
 15. .view.MainActivity 是MainActivity类所在位置
 16. ADB: Android Debug Bridge
 17. 在ShotListAdapter的onBindViewHolder中添加点击事件，以实现Activity切换
-    > This is how the shot data flows between activities and fragments
-    > ShotListFragment \(generates fake data\)
-    > → ShotListAdapter \(displays fake data\)
-    > → ShotActivity \(gets data from ShotListAdapter\)
+    > This is how the shot data flows between activities and fragments  
+    > ShotListFragment \(generates fake data\)  
+    > → ShotListAdapter \(displays fake data\)  
+    > → ShotActivity \(gets data from ShotListAdapter\)  
     > → ShotFragment \(gets data from ShotActivity and displays it\)
 18. Intent中的数据是Bundle
+19. [http://blog.csdn.net/github\_33304260/article/details/70213300](http://blog.csdn.net/github_33304260/article/details/70213300)
 
 
 
