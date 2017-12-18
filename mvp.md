@@ -14,6 +14,7 @@
 #### Retrofit2
 
 1. [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
+2. [Retrofit分析-经典设计模式案例](https://www.jianshu.com/p/fb8d21978e38)
 
 #### Dagger
 
