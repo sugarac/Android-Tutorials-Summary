@@ -11,10 +11,11 @@
 1. [给 Android 开发者的 RxJava 详解 ](http://gank.io/post/560e15be2dca930e00da1083#toc_14)
 2. [图解RxJava2\(一\)](http://rkhcy.github.io/2017/12/13/图解RxJava2%28一%29/)
 
-#### Retrofit2
+#### Retrofit
 
 1. [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
-2. [Retrofit分析-经典设计模式案例](https://www.jianshu.com/p/fb8d21978e38)
+2. [Retrofit分析-漂亮的解耦套路](https://www.jianshu.com/p/45cb536be2f4)   , [Retrofit分析-经典设计模式案例](https://www.jianshu.com/p/fb8d21978e38)
+3. [深入浅出 Retrofit，这么牛逼的框架你们还不来看看？   ](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577186&idx=1&sn=1a5f6369faeb22b4b68ea39f25020d28#rd)
 
 #### Dagger
 
