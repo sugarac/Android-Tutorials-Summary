@@ -3,6 +3,7 @@
 3. let, const, arrow function
 4. const multiply = number =&gt; number \* 2;
 5. default & named export
-6. 
+6. class
+
 
 
