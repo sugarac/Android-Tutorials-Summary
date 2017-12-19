@@ -3,7 +3,8 @@
 3. let, const, arrow function
 4. const multiply = number =&gt; number \* 2;
 5. default & named export
-6. class
+6. class, must use super\(\) in constructor of subclass
+   Java: 子类重写了父类的方法,又想用父类该方法的时候
 
 
 
