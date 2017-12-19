@@ -5,6 +5,8 @@
 5. default & named export
 6. class, must use super\(\) in constructor of subclass
    Java: 子类重写了父类的方法,又想用父类该方法的时候
-7. 
+7. Spread & Rest operator
+
+8. 
 
 
