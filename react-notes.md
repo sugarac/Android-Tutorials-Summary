@@ -21,7 +21,8 @@
 
 12. 闭包是指有权访问另一个函数作用域中的变量的函数。如，内部函数
 
-13. 
+13. [http://www.jianshu.com/p/940e814a9196](http://www.jianshu.com/p/940e814a9196)
+
 14. > 热身：
     >
     > 1. 怎么理解 react 传达组件的概念，react 是 view 么，怎么看 state 的设计
