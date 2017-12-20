@@ -19,7 +19,7 @@
 
     CSS, inline ssyle
 
-12. 闭包是指有权访问另一个函数作用域中的变量的函数。如，内部函数
+12. 闭包是指有权访问另一个函数作用域中的变量的函数。如，内部函数 [http://www.ruanyifeng.com/blog/2009/08/learning\_javascript\_closures.html](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 
 13. [http://www.jianshu.com/p/940e814a9196](http://www.jianshu.com/p/940e814a9196)
 
