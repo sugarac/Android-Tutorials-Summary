@@ -2,6 +2,8 @@
 2. The querySelector\(\) method returns the first element that matches a specified CSS selector\(s\) in the document.
 3. let, const, 
 4. arrow function: const multiply = number =&gt; number \* 2;//省略function和return
+   [http://es6.ruanyifeng.com/\#docs/function](http://es6.ruanyifeng.com/#docs/function)
+
 5. default & named export
 6. class, must use super\(\) in constructor of subclass
    Java: 子类重写了父类的方法,又想用父类该方法的时候
