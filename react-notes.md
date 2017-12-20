@@ -13,7 +13,7 @@
 
 10. ```js
     <button onClick={() => this.swithNameHandler('MAXXXX')}>Switch Name</button> //can be inefficient
-    <button onClick={this.swithNameHandler.bind(this, 'MAX!!!')}>Switch Name</button>
+    <button onClick={this.swithNameHandler.bind(this, 'MAX!!!')}>Switch Name</button> //use this!
     ```
 
 
