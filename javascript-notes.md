@@ -5,6 +5,8 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
    扩展运算符（spread）是三个点（`...`）。它好比 rest 参数的逆运算，将一个数组转为用逗号分隔的参数序列。
 3. Rest syntax \(parameters\) looks exactly like spread syntax, but is used for destructuring arrays and objects. In a way, rest syntax is the opposite of spread syntax: spread 'expands' an array into its elements, while rest collects multiple elements and 'condenses' them into a single element. See [rest parameters.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/rest_parameters)  
    ES6 引入 rest 参数（形式为`...变量名`），用于获取函数的多余参数，这样就不需要使用`arguments`对象了。rest 参数搭配的变量是一个数组，该变量将多余的参数放入数组中。
-4. 
+4. js 中{},\[\]中括号,大括号使用详解
+
+5. 
 
 
