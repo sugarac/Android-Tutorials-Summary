@@ -11,4 +11,5 @@
 * [HTML Notes](html-notes.md)
 * [JavaScript Notes](javascript-notes.md)
 * [React Native Notes](react-native.md)
+* [Git Notes](git-notes.md)
 
