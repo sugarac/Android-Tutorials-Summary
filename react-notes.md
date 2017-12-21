@@ -6,8 +6,9 @@
 
 5. default & named export
 
-6. class, must use super\(\) in constructor of subclass
+6. class, must use super\(\) in constructor of subclass  
    Java: 子类重写了父类的方法,又想用父类该方法的时候
+
 7. Spread & Rest operator
 
 8. In computer programming, the term hooking covers a range of techniques used to alter or augment the behavior of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a "**hook**".
@@ -26,7 +27,9 @@
 
 13. [http://www.jianshu.com/p/940e814a9196](http://www.jianshu.com/p/940e814a9196)
 
-14. > 热身：
+14. mount: 加载，安装
+
+15. > 热身：
     >
     > 1. 怎么理解 react 传达组件的概念，react 是 view 么，怎么看 state 的设计
     >
