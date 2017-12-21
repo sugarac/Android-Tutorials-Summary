@@ -8,6 +8,7 @@
 * [Dribbble Development Notes](dribbble-development-notes.md)
 * [Android Basic Knowledge](android-basic-knowledge.md)
 * [React Notes](react-notes.md)
+* [HTML Notes](html-notes.md)
 * [JavaScript Notes](javascript-notes.md)
-* [React Native](react-native.md)
+* [React Native Notes](react-native.md)
 
