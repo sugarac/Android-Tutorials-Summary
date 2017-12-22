@@ -1,35 +1,36 @@
 1. DOM 是什么？ - Fadeoc Khaos的回答 - 知乎 [https://www.zhihu.com/question/34219998/answer/58211568](https://www.zhihu.com/question/34219998/answer/58211568)
-2. The querySelector\(\) method returns the first element that matches a specified CSS selector\(s\) in the document.
-3. let, const, 
-4. arrow function: const multiply = number =&gt; number \* 2;//省略function和return  
+2. &lt;div /&gt; represents a DOM tag, but &lt;Welcome /&gt; represents a component and requires Welcome to be in scope.
+3. The querySelector\(\) method returns the first element that matches a specified CSS selector\(s\) in the document.
+4. let, const, 
+5. arrow function: const multiply = number =&gt; number \* 2;//省略function和return  
    [http://es6.ruanyifeng.com/\#docs/function](http://es6.ruanyifeng.com/#docs/function)
 
-5. default & named export
+6. default & named export
 
-6. class, must use super\(\) in constructor of subclass  
+7. class, must use super\(\) in constructor of subclass  
    Java: 子类重写了父类的方法,又想用父类该方法的时候
 
-7. Spread & Rest operator
+8. Spread & Rest operator
 
-8. In computer programming, the term hooking covers a range of techniques used to alter or augment the behavior of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a "**hook**".
+9. In computer programming, the term hooking covers a range of techniques used to alter or augment the behavior of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a "**hook**".
 
-9. JSX: HTML class -&gt; className, JSX 表达式必须具有一个父元素。JSX用\(\), 在JSX中用JS用{}
+10. JSX: HTML class -&gt; className, JSX 表达式必须具有一个父元素。JSX用\(\), 在JSX中用JS用{}
 
-10. 
-11. ```js
+11. 
+12. ```js
     <button onClick={() => this.swithNameHandler('MAXXXX')}>Switch Name</button> //can be inefficient
     <button onClick={this.swithNameHandler.bind(this, 'MAX!!!')}>Switch Name</button> //use this!
     ```
 
     CSS, inline ssyle
 
-12. 闭包是指有权访问另一个函数作用域中的变量的函数。如，内部函数 [http://www.ruanyifeng.com/blog/2009/08/learning\_javascript\_closures.html](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+13. 闭包是指有权访问另一个函数作用域中的变量的函数。如，内部函数 [http://www.ruanyifeng.com/blog/2009/08/learning\_javascript\_closures.html](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 
-13. [http://www.jianshu.com/p/940e814a9196](http://www.jianshu.com/p/940e814a9196)
+14. [http://www.jianshu.com/p/940e814a9196](http://www.jianshu.com/p/940e814a9196)
 
-14. mount: 加载，安装
+15. mount: 加载，安装
 
-15. > 热身：
+16. > 热身：
     >
     > 1. 怎么理解 react 传达组件的概念，react 是 view 么，怎么看 state 的设计
     >
