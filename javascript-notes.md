@@ -13,15 +13,9 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
    >
    > 2）同类型比较，直接进行“值”比较，两者结果一样
    >
-   >   
-   >
-   >
    > **2、对于Array,Object等高级类型，==和===是没有区别的**
    >
    > 进行“指针地址”比较
-   >
-   >   
-   >
    >
    > **3、基础类型与高级类型，==和===是有区别的**
    >
