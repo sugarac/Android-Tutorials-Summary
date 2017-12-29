@@ -1,5 +1,4 @@
-1. 11
-   ```
+1.  ```
    echo "# C-Tests" >> README.md
    git init
    git add README.md
