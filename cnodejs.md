@@ -16,9 +16,12 @@ npm run build
 localhost:3333
 ```
 
-### Run at Cloud Server
+### Run at Cloud Server \(Linux\)
 
 ```
+sudo su
+cd ~
+mkdir projects
 git clone https://github.com/sugarac/react-cnodejs.org
 cd react-cnodejs.org
 npm i
