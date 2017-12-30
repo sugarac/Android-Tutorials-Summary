@@ -18,7 +18,7 @@ localhost:3333
 
 ### Run at Cloud Server
 
-```js
+```shell
 git clone https://github.com/sugarac/react-cnodejs.org
 cd react-cnodejs.org
 npm i
