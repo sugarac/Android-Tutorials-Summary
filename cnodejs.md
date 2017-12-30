@@ -4,8 +4,8 @@ Material UI version of cnodejs.org. Demo:[ http://cnodejs.sugarac.com](http://cn
 
 ### Tech Stack
 
-Frontend: React 16 + React Router + Mobx + Webpack  
-Backend: AWS + Nginx + Express.js +
+Frontend: ES6 + React 16 + React Router + Mobx + Webpack + axios  
+Backend: AWS + Nginx + Express.js + PM2
 
 ### Run at Localhost
 
