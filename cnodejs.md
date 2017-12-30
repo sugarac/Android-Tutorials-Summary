@@ -8,7 +8,7 @@ React 16 + React Router + Mobx + Webpack + Express.js +  Nginx
 
 ### Run at Localhost
 
-```
+```bash
 git clone https://github.com/sugarac/react-cnodejs.org
 cd react-cnodejs.org
 npm i
