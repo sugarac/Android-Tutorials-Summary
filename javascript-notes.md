@@ -7,7 +7,9 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
    ES6 引入 rest 参数（形式为`...变量名`），用于获取函数的多余参数，这样就不需要使用`arguments`对象了。rest 参数搭配的变量是一个数组，该变量将多余的参数放入数组中。
 4. [js 中{},\[\]中括号,大括号使用详解](http://www.jb51.net/article/27119.htm)
 
-5. > **1、对于string,number等基础类型，==和===是有区别的**
+5. [变量的解构赋值——ES6学习笔记4](http://mobilesite.github.io/2017/09/11/es6-4-destruction/)
+
+6. > **1、对于string,number等基础类型，==和===是有区别的**
    >
    > 1）不同类型间比较，==之比较“转化成同一类型后的值”看“值”是否相等，===如果类型不同，其结果就是不等
    >
