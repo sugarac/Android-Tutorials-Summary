@@ -101,7 +101,6 @@ visit your server's public IP or bound domain at your browser
 ├─ favicon.ico
 ├─ package.json
 └─ process.yml
-
 ```
 
 
