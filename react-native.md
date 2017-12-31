@@ -4,6 +4,12 @@
 4. [https://coding.imooc.com/class/89.html](https://coding.imooc.com/class/89.html)
 5. [一次RN跨平台开发之旅 GitFeed](http://xiekw2010.github.io/2016/02/11/2016-02-11-rngitfeed/)
 6. [https://github.com/crazycodeboy/GitHubPopular](https://github.com/crazycodeboy/GitHubPopular)
-7. 
+
+
+
+1. 新建RN项目没有index.android.js 和 index.ios.js文件  
+   RN 0.49版本开始，index.android.js 和 index.ios.js合并到app.js。
+
+2. 
 
 
