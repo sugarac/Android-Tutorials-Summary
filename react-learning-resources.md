@@ -1,7 +1,7 @@
 1. [https://reactjs.org/](https://reactjs.org/)
 2. [https://doc.webpack-china.org/concepts/](https://doc.webpack-china.org/concepts/)
 3. [https://material-ui-next.com](https://material-ui-next.com)
-4. [如何考察候选人的react技术水平？   ](https://www.zhihu.com/question/60548673)
+4. [如何考察候选人的react技术水平？](https://www.zhihu.com/question/60548673)
 5. [http://huxiansheng.net/](http://huxiansheng.net/)
 6. [自己动手搭建React开发环境](http://blog.csdn.net/fengxiaoxiao_1/article/details/75223447)
 7. [React Router 中文文档](https://react-guide.github.io/react-router-cn/index.html)
