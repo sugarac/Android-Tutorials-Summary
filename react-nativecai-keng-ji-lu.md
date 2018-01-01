@@ -10,13 +10,13 @@
 
 2. 然后再运行`react-native run-android` 又会发现问题：`unable to load script from assets index.android.bundle`fafas  
    解决办法：  
-   `(in project directory) mkdir android/app/src/main/assets   `
+   `(in project directory) mkdir android/app/src/main/assets`
 
-   `react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res   `
+   `react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res`
 
    `react-native run-android`
 
-3. fdss
+3. 安卓真机开启Hot Loading方法：摇一摇。。。
 
 4. 
 
