@@ -20,7 +20,7 @@
 
 4. `Could not expand ZIP .....node_modules\XXXX`解决办法：`cd android && gradlew clean && cd .. && react-native run-android`
 
-5. 鉴于React Native还处于快速更新中，建议从0.4版本开始学起。
+5. 鉴于React Native还处于快速更新中，我项目用的是0.4版本。
 
 6. 
 
