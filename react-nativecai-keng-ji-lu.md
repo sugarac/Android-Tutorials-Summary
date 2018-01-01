@@ -18,8 +18,8 @@
 
 3. 安卓真机开启Hot Loading方法：摇一摇。。。
 
-4. `Could not expand ZIP .....node_modules\  
-   `解决办法：cd android && gradlew clean && cd .. && react-native run-android
+4. `Could not expand ZIP .....node_modules\XXXX  
+   `解决办法：`cd android && gradlew clean && cd .. && react-native run-android`
 
 5. 鉴于React Native还不完善，先弃坑。。。
 
