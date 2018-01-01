@@ -1,7 +1,13 @@
-```
-A problem occurred configuring project ':app'.
-> SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable.
-```
+1. 用`react-native init`创建完项目后，运行`react-native run-android`会提示安卓SDK不存在，因为没配置SDK。官方教程也没说到这一点，奇怪。
+   ```
+   A    problem occurred configuring project ':app'.
+   > SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable.
+   ```
 
-刚创建完React Native项目后，运行react-native run-android会提示安卓SDK不存在，
+   解决办法：在项目的android目录下添加local.properties文件，文件内容为sdk目录，格式如下：  
+   `sdk.dir=C\:\\Users\\SUGAR\\AppData\\Local\\Android\\sdk`
+
+2. fdss
+3. 
+
 
