@@ -8,7 +8,7 @@
    解决办法：在项目的android目录下添加local.properties文件，文件内容为sdk目录，格式如下：  
    `sdk.dir=C\:\\Users\\SUGAR\\AppData\\Local\\Android\\sdk`
 
-2. 然后再运行`react-native run-android` 又会发现问题：`unable to load script from assets index.android.bundle`fafas  
+2. 然后再运行`react-native run-android` 又会发现问题：`unable to load script from assets index.android.bundle`  
    解决办法：  
    `(in project directory) mkdir android/app/src/main/assets`
 
