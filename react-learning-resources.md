@@ -2,7 +2,7 @@
 2. [最好的 React.js 教程 《React.js 小书》](http://huziketang.com/books/react/lesson1)
 3. [最全面的React基础资料，最详细的示例代码](https://github.com/GuoYongfeng/react-fundamental)
 4. [现代化前端工程师权威指南](https://guoyongfeng.github.io/book/)
-5. [前端开发者手册   ](http://www.voidcn.com/course/project/pkclqw)
+5. [前端开发者手册](http://www.voidcn.com/course/project/pkclqw)
 6. [https://doc.webpack-china.org/concepts/](https://doc.webpack-china.org/concepts/)
 7. [https://material-ui-next.com](https://material-ui-next.com)
 8. [如何考察候选人的react技术水平？](https://www.zhihu.com/question/60548673)
