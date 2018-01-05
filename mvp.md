@@ -5,6 +5,7 @@
 3. [MVP 模式简单易懂的介绍方式](http://kaedea.com/2015/10/11/android-mvp-pattern/ )
 4. [像小白一样学习MVP](http://www.jianshu.com/p/2b2f4191ac04)
 5. [高级MVP架构封装演变全过程](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
+6. [使用MVP模式重构代码   ](https://www.jianshu.com/p/7c4e310da409)
 
 #### RxJava
 
