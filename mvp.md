@@ -6,7 +6,7 @@
 4. [像小白一样学习MVP](http://www.jianshu.com/p/2b2f4191ac04)
 5. [高级MVP架构封装演变全过程](https://www.gitbook.com/book/sugarac/android-tutorials-summary/edit#)
 6. [使用MVP模式重构代码](https://www.jianshu.com/p/7c4e310da409)
-
+7. 
 #### RxJava
 
 1. [给 Android 开发者的 RxJava 详解 ](http://gank.io/post/560e15be2dca930e00da1083#toc_14)
