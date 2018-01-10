@@ -1,4 +1,4 @@
-[/回调函数（callback）是什么？ - no.body的回答 - 知乎 https://www.zhihu.com/question/19801131/answer/27459821](/回调函数（callback）是什么？ - no.body的回答 - 知乎 https://www.zhihu.com/question/19801131/answer/27459821)
+[https://www.zhihu.com/question/19801131/answer/27459821](https://www.zhihu.com/question/19801131/answer/27459821)
 
 回调有三个部分组成：回调函数、中间函数和起始函数
 
