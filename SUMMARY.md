@@ -14,7 +14,7 @@
 * [React Learning Resources](react-learning-resources.md)
 * [React Native Notes](react-native.md)
 * [Git Notes](git-notes.md)
-* [NodeJS](nodejs.md)
+* [Node.js](nodejs.md)
 * [cnodejs](cnodejs.md)
 * [Node.js Basic Knowledge](nodejs-basic-knowledge.md)
 * [React Native Learning Resources](react-native-learning-resources.md)
