@@ -15,7 +15,7 @@
    ○ [http://example.com/api/v1/path/to/resource](http://example.com/api/v1/path/to/resource)
    ● Specify optional fields in a comma separated list
    ○ GET
-   [http://www.example.gov/api/v1/magazines/1234?fields=ti](http://www.example.gov/api/v1/magazines/1234?fields=ti)tle,subtitle,date
+   [http://www.example.gov/api/v1/magazines/1234?fields=title,subtitle,date](http://www.example.gov/api/v1/magazines/1234?fields=title,subtitle,date)
 
 
 
