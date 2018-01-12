@@ -9,8 +9,7 @@
       ○ POST [http://example.gov/api/v1/magazines/1234/articles](http://example.gov/api/v1/magazines/1234/articles)
       ○ [http://www.example.gov/magazine/1234/create](http://www.example.gov/magazine/1234/create)
    ● Use HTTP verbs \(GET, POST, PUT, DELETE\) to operate on the collections and elements![](/assets/import.png)● Use plural nouns only for consistency \(no singular nouns\)
-   ● You shouldn’t need to go deeper than
-    resource/identifier/resource
+   ● You shouldn’t need to go deeper than resource/identifier/resource
    ● Put the version number at the base of your URL
    ○ [http://example.com/api/v1/path/to/resource](http://example.com/api/v1/path/to/resource)
    ● Specify optional fields in a comma separated list
