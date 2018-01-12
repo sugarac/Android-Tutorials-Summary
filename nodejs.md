@@ -3,30 +3,39 @@
 3. Event-Driven: EventEmitters-&gt;Events-&gt;Event Loop-&gt;Event Handlers
 4. Node.js是IO密集。CPU密集。IO：文件，网络，数据库。
 5. REST的Stateless: 不管谁向服务器请求（通过URL），都得到唯一的结果。e.g. /profile/zhangsan
-   看Url就知道要什么
-
-  
-
-
-   看http method就知道干什么
-
-  
-
-
-   看http status code就知道结果如何
-
 6. ● A URL identifies a resource
-      ○ GET [http://example.gov/api/v1/magazines/1234/](http://example.gov/api/v1/magazines/1234/)
-   ● URLs should include nouns, not verbs.
-      ○ POST [http://example.gov/api/v1/magazines/1234/articles](http://example.gov/api/v1/magazines/1234/articles)
-      ○ [http://www.example.gov/magazine/1234/create](http://www.example.gov/magazine/1234/create)
-   ● Use HTTP verbs \(GET, POST, PUT, DELETE\) to operate on the collections and elements![](/assets/import.png)● Use plural nouns only for consistency \(no singular nouns\)
-   ● You shouldn’t need to go deeper than resource/identifier/resource
-   ● Put the version number at the base of your URL
-   ○ [http://example.com/api/v1/path/to/resource](http://example.com/api/v1/path/to/resource)
-   ● Specify optional fields in a comma separated list
-   ○ GET [http://www.example.gov/api/v1/magazines/1234?fields=title,subtitle,date](http://www.example.gov/api/v1/magazines/1234?fields=title,subtitle,date)
+
+ ○ GET [http://example.gov/api/v1/magazines/1234/](http://example.gov/api/v1/magazines/1234/)
+
+● URLs should include nouns, not verbs.
+
+   ○ POST [http://example.gov/api/v1/magazines/1234/articles](http://example.gov/api/v1/magazines/1234/articles)
+
+   ○ [http://www.example.gov/magazine/1234/create](http://www.example.gov/magazine/1234/create)
+
+● Use HTTP verbs \(GET, POST, PUT, DELETE\) to operate on the collections and elements![](/assets/import.png)● Use plural nouns only for consistency \(no singular nouns\)
+
+● You shouldn’t need to go deeper than resource/identifier/resource
+
+● Put the version number at the base of your URL
+
+○ [http://example.com/api/v1/path/to/resource](http://example.com/api/v1/path/to/resource)
+
+● Specify optional fields in a comma separated list
+
+○ GET [http://www.example.gov/api/v1/magazines/1234?fields=title,subtitle,date](http://www.example.gov/api/v1/magazines/1234?fields=title,subtitle,date)
+
 7. 各大网站登陆功能都是login且是Post请求，不符合REST API标准
 
+看Url就知道要什么
 
+  
+
+
+看http method就知道干什么
+
+  
+
+
+看http status code就知道结果如何
 
