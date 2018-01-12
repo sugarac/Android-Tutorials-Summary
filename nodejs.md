@@ -4,11 +4,11 @@
 4. Node.js是IO密集。CPU密集
 5. REST的Stateless: 不管谁向服务器请求（通过URL），都得到唯一的结果。e.g. /profile/zhangsan
 6. ● A URL identifies a resource
-      ○ GET http://example.gov/api/v1/magazines/1234/
+      ○ GET [http://example.gov/api/v1/magazines/1234/](http://example.gov/api/v1/magazines/1234/)
    ● URLs should include nouns, not verbs.
-      ○ POST http://example.gov/api/v1/magazines/1234/articles
-      ○ http://www.example.gov/magazine/1234/create
-   ● Use HTTP verbs \(GET, POST, PUT, DELETE\) to operate on    the collections and elements
+      ○ POST [http://example.gov/api/v1/magazines/1234/articles](http://example.gov/api/v1/magazines/1234/articles)
+      ○ [http://www.example.gov/magazine/1234/create](http://www.example.gov/magazine/1234/create)
+   ● Use HTTP verbs \(GET, POST, PUT, DELETE\) to operate on the collections and elements
 
 
 
