@@ -25,24 +25,24 @@
 
 ○ GET [http://www.example.gov/api/v1/magazines/1234?fields=title,subtitle,date](http://www.example.gov/api/v1/magazines/1234?fields=title,subtitle,date)
 
-1. > 各大网站登陆功能都是login且是Post请求，不符合REST API标准
+1. > 各大网站登陆功能都是login且是Post请求，不符合REST API标准  
    > 看Url就知道要什么
    >
    > 看http method就知道干什么
    >
    > 看http status code就知道结果如何
-
-1. Advantages of Token Based Authentication
-   ● Stateless, Scalable and Decoupled
-   Server's only job is to sign tokens on a successful login request and verify that incoming tokens are valid, no lookup
-   ● Cross Domain and CORS
-   Trivial to expose APIs to different services and domains, while cookies only work with singular domains and    sub-domains.
-   ● Store Data in the JWT
-   Store any type of metadata, as long as it's valid JSON, while cookie can only store session id.
-   ● Performance
-   Decoding a token is faster than looking up a session, also storing permission level in token saves extra lookup ops.
-   ● Mobile Ready
-   A single API can serve both the browser and native mobile platforms like iOS and Android. Native mobile platforms    and cookies do not mix well.
+2. Advantages of Token Based Authentication  
+   ● Stateless, Scalable and Decoupled  
+   Server's only job is to sign tokens on a successful login request and verify that incoming tokens are valid, no lookup  
+   ● Cross Domain and CORS  
+   Trivial to expose APIs to different services and domains, while cookies only work with singular domains and sub-domains.  
+   ● Store Data in the JWT  
+   Store any type of metadata, as long as it's valid JSON, while cookie can only store session id.  
+   ● Performance  
+   Decoding a token is faster than looking up a session, also storing permission level in token saves extra lookup ops.  
+   ● Mobile Ready  
+   A single API can serve both the browser and native mobile platforms like iOS and Android. Native mobile platforms  
+    and cookies do not mix well.
 
 
 
