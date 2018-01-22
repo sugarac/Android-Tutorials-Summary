@@ -8,6 +8,7 @@
 * [Dribbble Development Notes](dribbble-development-notes.md)
 * [Android Basic Knowledge](android-basic-knowledge.md)
 * [HTML Notes](html-notes.md)
+* [CSS Notes](css-notes.md)
 * [JavaScript Notes](javascript-notes.md)
 * [回调函数](hui-diao-han-shu.md)
 * [React Notes](react-notes.md)
@@ -18,5 +19,5 @@
 * [cnodejs](cnodejs.md)
 * [Node.js Basic Knowledge](nodejs-basic-knowledge.md)
 * [React Native Learning Resources](react-native-learning-resources.md)
-* [React Native踩坑记录](react-nativecai-keng-ji-lu.md)
+* CSS Notes
 

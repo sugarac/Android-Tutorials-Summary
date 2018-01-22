@@ -56,7 +56,7 @@
 
    **Question:**What does “semantically correct” mean?
 
-   **Answer:**read it in[Stackoverflow](http://stackoverflow.com/questions/1294493/what-does-semantically-correct-mean/1294512#1294512)
+   **Answer:**read it in [Stackoverflow](http://stackoverflow.com/questions/1294493/what-does-semantically-correct-mean/1294512#1294512)
 
 8. 
 
