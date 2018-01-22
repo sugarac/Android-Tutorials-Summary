@@ -5,6 +5,7 @@
 
    Note: By default, browsers always place a line break before and after the &lt;div&gt; element. However, this can be changed with CSS.
 
-2. 
+2. HTML elements are usually either "block-level" elements or "inline" elements. A block-level element occupies the entire space of its parent element \(container\), thereby creating a "block".
+
 
 
