@@ -16,21 +16,33 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 8. [变量的解构赋值——ES6学习笔记4](http://mobilesite.github.io/2017/09/11/es6-4-destruction/)
 
-9. > **1、对于string,number等基础类型，==和===是有区别的**
-   >
-   > 1）不同类型间比较，==之比较“转化成同一类型后的值”看“值”是否相等，===如果类型不同，其结果就是不等
-   >
-   > 2）同类型比较，直接进行“值”比较，两者结果一样
-   >
-   > **2、对于Array,Object等高级类型，==和===是没有区别的**
-   >
-   > 进行“指针地址”比较
-   >
-   > **3、基础类型与高级类型，==和===是有区别的**
-   >
-   > 1）对于==，将高级转化为基础类型，进行“值”比较
-   >
-   > 2）因为类型不同，===结果为false
+9. The type of value a variable can hold during execution may change.
+
+10. Variables declared in a function are local to the function    . if var is omitted, the variable becomes global
+
+11. In a multi-frame or multi-window set up of the browser, scripts can access global variables from any other document currently loaded
+
+12. JavaScript does NOT provide a way to declare the size \(dimension\) of an array, but we can add one
+
+13. function returns a string which is the type of its argument \("number", "string", "boolean", "object", "function", "undefined
+
+14. I have many software engineering skills including Front-end, Back-end and Android. Besides, my projects have been released online.
+
+15. > **1、对于string,number等基础类型，==和===是有区别的**
+    >
+    > 1）不同类型间比较，==之比较“转化成同一类型后的值”看“值”是否相等，===如果类型不同，其结果就是不等
+    >
+    > 2）同类型比较，直接进行“值”比较，两者结果一样
+    >
+    > **2、对于Array,Object等高级类型，==和===是没有区别的**
+    >
+    > 进行“指针地址”比较
+    >
+    > **3、基础类型与高级类型，==和===是有区别的**
+    >
+    > 1）对于==，将高级转化为基础类型，进行“值”比较
+    >
+    > 2）因为类型不同，===结果为false
 
 
 
