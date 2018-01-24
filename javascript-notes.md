@@ -31,10 +31,12 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 15. JavaScript does NOT support associative arrays
 
-16. An object literal is a list of zero or more pairs of property names and associated values of an object, enclosed in curly braces 
+16. An object literal is a list of zero or more pairs of property names and associated values of an object, enclosed in curly braces
 
-17. 
-18. > **1、对于string,number等基础类型，==和===是有区别的**
+17. Undefined may not be null    ；You cannot overload a function    ；Undeclared variables are global
+
+18. 
+19. > **1、对于string,number等基础类型，==和===是有区别的**
     >
     > 1）不同类型间比较，==之比较“转化成同一类型后的值”看“值”是否相等，===如果类型不同，其结果就是不等
     >
