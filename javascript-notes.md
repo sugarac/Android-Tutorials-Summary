@@ -33,7 +33,7 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 16. An object literal is a list of zero or more pairs of property names and associated values of an object, enclosed in curly braces
 
-17. Undefined may not be null    ；You cannot overload a function    ；Undeclared variables are global
+17. Undefined may not be null；You cannot overload a function；Undeclared variables are global
 
 18. 
 19. > **1、对于string,number等基础类型，==和===是有区别的**
