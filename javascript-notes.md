@@ -18,7 +18,8 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 9. The type of value a variable can hold during execution may change.
 
-10. Variables declared in a function are local to the function    . if var is omitted, the variable becomes global
+10. Variables declared in a function are local to the function  
+    . if var is omitted, the variable becomes global
 
 11. In a multi-frame or multi-window set up of the browser, scripts can access global variables from any other document currently loaded
 
@@ -26,9 +27,10 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 13. function returns a string which is the type of its argument \("number", "string", "boolean", "object", "function", "undefined
 
-14. I have many software engineering skills including Front-end, Back-end and Android. Besides, my projects have been released online.
+14. JavaScript does NOT support associative arrays
 
-15. > **1、对于string,number等基础类型，==和===是有区别的**
+15. 
+16. > **1、对于string,number等基础类型，==和===是有区别的**
     >
     > 1）不同类型间比较，==之比较“转化成同一类型后的值”看“值”是否相等，===如果类型不同，其结果就是不等
     >
