@@ -25,12 +25,16 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 12. JavaScript does NOT provide a way to declare the size \(dimension\) of an array, but we can add one
 
-13. function returns a string which is the type of its argument \("number", "string", "boolean", "object", "function", "undefined
+13. function returns a string which is the type of its argument \("number", "string", "boolean", "object", "function", "undefined\)
 
-14. JavaScript does NOT support associative arrays
+14. Object: Array, Boolean, Date, Function, Math, RegExp, String
 
-15. 
-16. > **1、对于string,number等基础类型，==和===是有区别的**
+15. JavaScript does NOT support associative arrays
+
+16. An object literal is a list of zero or more pairs of property names and associated values of an object, enclosed in curly braces 
+
+17. 
+18. > **1、对于string,number等基础类型，==和===是有区别的**
     >
     > 1）不同类型间比较，==之比较“转化成同一类型后的值”看“值”是否相等，===如果类型不同，其结果就是不等
     >
