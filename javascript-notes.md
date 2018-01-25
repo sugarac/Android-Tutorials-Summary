@@ -48,7 +48,14 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
     所以设置一个值为 null 是合理的，如 objA.valueA = null;  但设置一个值为 undefined 是不合理的
 
-22. 
+22. 当obj的某个属性是一个变量时\(你的attr在这里是一个字符串\)，这种点调用的方式就行不通了，想想看obj.'property'这样的方式不对；
+
+    所以，如果对象内的属性是一个变量，只能使用\[\]调用。
+
+
+
+    2016年03月31日更新评论赞赏编辑
+
 23. > **1、对于string,number等基础类型，==和===是有区别的**
     >
     > 1）不同类型间比较，==之比较“转化成同一类型后的值”看“值”是否相等，===如果类型不同，其结果就是不等
