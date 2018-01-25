@@ -32,7 +32,7 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 15. JavaScript does NOT support associative arrays
 
 16. An object literal is a list of zero or more pairs of **property names **and **associated values **of an object, enclosed in curly braces  
-     An object in JavaScript is a hash. An object's properties are its hash keys.
+     An object in JavaScript is a **hash**. An object's properties are its hash keys.
 
 17. Undefined may not be null；You cannot overload a function；Undeclared variables are global
 
