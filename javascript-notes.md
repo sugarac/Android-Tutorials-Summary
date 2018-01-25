@@ -48,7 +48,8 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
     所以设置一个值为 null 是合理的，如 objA.valueA = null;  但设置一个值为 undefined 是不合理的
 
-22. > **1、对于string,number等基础类型，==和===是有区别的**
+22. 
+23. > **1、对于string,number等基础类型，==和===是有区别的**
     >
     > 1）不同类型间比较，==之比较“转化成同一类型后的值”看“值”是否相等，===如果类型不同，其结果就是不等
     >
