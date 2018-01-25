@@ -8,6 +8,7 @@
 * [Dribbble Development Notes](dribbble-development-notes.md)
 * [Android Basic Knowledge](android-basic-knowledge.md)
 * [HTML Notes](html-notes.md)
+  * [DOM](html-notes/dom.md)
 * [CSS Notes](css-notes.md)
 * [JavaScript Notes](javascript-notes.md)
   * [5 questions](javascript-notes/5-questions.md)
