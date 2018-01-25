@@ -2,6 +2,7 @@
 
 2. getElementById getElementsByTagName innerHTML assign values to CSS properties
 
-3. 
+3. innerHTML appendChild
+
 
 
