@@ -12,7 +12,7 @@ Map is a an extremely useful functional programming concept that any computer sc
 
 1. **Can you explain “bind” to me?**
 
-This is a really great question, because it delves into the concept of this. You can basically drill the interviewee for quite some time on this, as it is a very large subject. You'll get a good sense of a programmer by having this discussion.
+This is a really great question, because it delves into the concept of **this**. You can basically drill the interviewee for quite some time on this, as it is a very large subject. You'll get a good sense of a programmer by having this discussion.
 
 1. **Can you explain how “closures” work to me?**
 
