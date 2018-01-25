@@ -27,7 +27,7 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 13. function returns a string which is the type of its argument \("number", "string", "boolean", "object", "function", "undefined\)
 
-14. Object: Array, Boolean, Date, Function, Math, RegExp, String
+14. **Object**: Array, Boolean, Date, Function, Math, RegExp, String
 
 15. JavaScript does NOT support associative arrays
 
