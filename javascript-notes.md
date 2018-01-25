@@ -44,9 +44,9 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 20. The identity \(===\) operator behaves identically to the equality \(==\) operator **except no** type conversion is done, and the types must be the same to be considered equal.
 
-21. null 表示一个值被定义了，定义为“空值”；    undefined 表示根本不存在定义。
+21. null 表示一个值被定义了，定义为“空值”；undefined 表示根本不存在定义。
 
-    所以设置一个值为 null 是合理的，如    objA.valueA = null;     但设置一个值为 undefined 是不合理的
+    所以设置一个值为 null 是合理的，如 objA.valueA = null;  但设置一个值为 undefined 是不合理的
 
 22. > **1、对于string,number等基础类型，==和===是有区别的**
     >
