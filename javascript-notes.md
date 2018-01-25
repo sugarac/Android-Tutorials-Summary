@@ -25,7 +25,7 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 12. JavaScript does NOT provide a way to declare the size \(dimension\) of an array, but we can add one
 
-13. function returns a string which is the type of its argument \("number", "string", "boolean", "object", "function", "undefined\)
+13. function returns a string which is the type of its argument \("number", "string", "boolean", "object", "function", "undefined"\)
 
 14. **Object**: Array, Boolean, Date, Function, Math, RegExp, String
 
@@ -36,7 +36,7 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 17. Undefined may not be null；You cannot overload a function；Undeclared variables are global
 
 18. Functions are a type of object  
-        function twice\(x\) { return x \* x }   
+        function twice\(x\) { return x \* x }  
      creates an object whose **variable name **is twice
 
 19. the this keyword refers to object obj
