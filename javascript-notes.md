@@ -62,7 +62,9 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 27. A closure is the combination of a function and the lexical environment within which that function was declared.
 
-28. 
+28. The word "lexical" refers to the fact that lexical scoping uses the location where a variable is declared within the source code to determine where that variable is available. Nested functions have access to variables declared in their outer scope.
+
+29. 
 ---
 
 1. > **1、对于string,number等基础类型，==和===是有区别的**
