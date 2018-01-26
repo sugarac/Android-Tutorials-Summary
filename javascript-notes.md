@@ -58,7 +58,8 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 25. 在JavaScript语言中，只有函数内部的子函数才能读取局部变量，因此可以把闭包简单理解成"定义在一个函数内部的函数"。
 
-26. 
+26. 最大用处有两个，一个是前面提到的可以读取函数内部的变量，另一个就是让这些变量的值始终保持在内存中。
+
 ---
 
 1. > **1、对于string,number等基础类型，==和===是有区别的**
