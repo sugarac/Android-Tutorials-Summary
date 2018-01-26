@@ -50,9 +50,15 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 22. 当obj的某个属性是一个变量时\(你的attr在这里是一个字符串\)，这种点调用的方式就行不通了，想想看obj.'property'这样的方式不对；所以，如果对象内的属性是一个变量，只能使用\[\]调用。
 
-23. 
+23. “var” has no block scope, "let" has.
 
+24. let: 不存在变量提升（变量可以在声明之前使用，值为undefined。）；  
+    暂时性死区（在代码块内，使用let命令声明变量之前，该变量都是不可用的。）；  
+    不允许重复声明（不允许在相同作用域内，重复声明同一个变量。）
 
+25. 在JavaScript语言中，只有函数内部的子函数才能读取局部变量，因此可以把闭包简单理解成"定义在一个函数内部的函数"。
+
+26. 
 ---
 
 1. > **1、对于string,number等基础类型，==和===是有区别的**
