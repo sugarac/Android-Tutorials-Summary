@@ -64,7 +64,9 @@ Best Resource for learning JS fastly: [https://developer.mozilla.org/en-US/docs/
 
 28. The word "lexical" refers to the fact that lexical scoping uses the location where a variable is declared within the source code to determine where that variable is available. Nested functions have access to variables declared in their outer scope.
 
-29. 
+29. JavaScript 是动态类型语言，而 Java 是静态类型语言；JavaScript 是弱类型的，Java 属于强类型；JavaScript 的面向对象是基于原型的（prototype-based）实现的，Java 是基于类（class-based）的；
+
+30. 
 ---
 
 1. > **1、对于string,number等基础类型，==和===是有区别的**
