@@ -3,6 +3,8 @@
 3. 301 Moved Permanently: The page has been moved, resulting in a “location” redirect.
 4. 301, Content-Encoding, cache, Content-Encoding + Content-Type, Content-Type, 
    Server, Connection, 301, Content-Encoding看charset+Content-Type, Accept.
-5. 
+5.  id 选择器以 "\#" 来定义。
+
+6. 
 
 
