@@ -58,6 +58,12 @@
 
    **Answer:**read it in [Stackoverflow](http://stackoverflow.com/questions/1294493/what-does-semantically-correct-mean/1294512#1294512)
 
-8. 
+8. \(1\)空元素语法的元素：area、base、br、col、command、embed、hr、img、input、keygen、link、mata、param、source、wbr
+
+   \(2\)可以省略结束标签的元素：colgroup、dt、dd、li、optgroup、p、rt、rp、thread、tbody、tfoot、tr、td、th
+
+   \(3\)可以全部省略标签的元素：html、head、body、tbody
+
+9. 
 
 
