@@ -8,7 +8,6 @@
 6. .isGeneric .contentWrap{margin:20px 20px 0;}  
    Declares two classes that, when BOTH applied, reset the margins.
 
-7. ![](/assets/571——1.png)8.
-
+7. 
 
 
